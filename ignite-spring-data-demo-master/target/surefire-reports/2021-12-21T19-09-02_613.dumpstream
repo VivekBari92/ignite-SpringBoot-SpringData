@@ -1,0 +1,15 @@
+# Created at 2021-12-21T19:09:06.650
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2021-12-21T19:09:06.651
+WARNING: Illegal reflective access by org.apache.ignite.internal.util.GridUnsafe$2 (file:/C:/Users/vivek/.m2/repository/org/apache/ignite/ignite-core/2.11.0/ignite-core-2.11.0.jar) to field java.nio.Buffer.address
+
+# Created at 2021-12-21T19:09:06.651
+WARNING: Please consider reporting this to the maintainers of org.apache.ignite.internal.util.GridUnsafe$2
+
+# Created at 2021-12-21T19:09:06.652
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2021-12-21T19:09:06.654
+WARNING: All illegal access operations will be denied in a future release
+

@@ -84,6 +84,13 @@
 			<artifactId>ignite-spring-boot-autoconfigure-ext</artifactId>
 			<version>1.0.0</version>
 		</dependency>
+		
+		<dependency>
+  <groupId>org.apache.httpcomponents</groupId>
+  <artifactId>httpclient</artifactId>
+  <scope>test</scope>
+</dependency>
+
 	</dependencies>
 
 	<build>

@@ -1,0 +1,12 @@
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\controller\WorldDatabaseController.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\service\WorldDatabaseService.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\config\SpringFoxConfig.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\IgniteSpringDataDemoApplication.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\model\CountryDTO.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\model\CityKey.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\model\Country.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\model\CityDTO.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\dao\CountryRepository.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\model\City.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\DemoConfig.java
+C:\XoriantWork\ApacheIgnite\ignite-spring-data-demo-master\src\main\java\org\gridgain\demo\springdata\dao\CityRepository.java

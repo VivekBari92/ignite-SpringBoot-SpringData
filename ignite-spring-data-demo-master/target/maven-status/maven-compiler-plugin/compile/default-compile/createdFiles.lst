@@ -1,0 +1,12 @@
+org\gridgain\demo\springdata\controller\WorldDatabaseController.class
+org\gridgain\demo\springdata\IgniteSpringDataDemoApplication.class
+org\gridgain\demo\springdata\dao\CountryRepository.class
+org\gridgain\demo\springdata\model\City.class
+org\gridgain\demo\springdata\model\CityKey.class
+org\gridgain\demo\springdata\dao\CityRepository.class
+org\gridgain\demo\springdata\DemoConfig.class
+org\gridgain\demo\springdata\service\WorldDatabaseService.class
+org\gridgain\demo\springdata\model\CountryDTO.class
+org\gridgain\demo\springdata\model\CityDTO.class
+org\gridgain\demo\springdata\model\Country.class
+org\gridgain\demo\springdata\config\SpringFoxConfig.class

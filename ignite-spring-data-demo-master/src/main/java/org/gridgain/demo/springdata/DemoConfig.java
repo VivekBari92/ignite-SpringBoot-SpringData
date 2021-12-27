@@ -37,6 +37,9 @@ public class DemoConfig {
         return igniteConfiguration -> {
         	igniteConfiguration.setPeerClassLoadingEnabled(false);
             igniteConfiguration.setClientMode(true);
+            igniteConfiguration.setIgniteInstanceName("Vivek Ignite Instance");
+            
+            
 //            DataStorageConfiguration storageCfg = new DataStorageConfiguration();
 //            storageCfg.getDefaultDataRegionConfiguration().setPersistenceEnabled(true);
 //            igniteConfiguration.setDataStorageConfiguration(storageCfg);
